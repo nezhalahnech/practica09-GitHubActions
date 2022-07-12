@@ -1,2 +1,2 @@
 # practica09-GitHubActions-
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![example workflow](https://github.com/nezhalahnech/practica09-GitHubActions-/actions/workflows/ci-primer-wf.yml/badge.svg)
